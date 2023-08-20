@@ -7,7 +7,7 @@ Me chamo Matheus e sou um estudante de Desenvolvimento de Sistemas, você pode m
 
 #### Sobre mim
 
-🎓 Estudante de Desenvolvimento de Sistemas (Técnico) <br>
+🎓 Estudante de Desenvolvimento de Sistemas na ETEC (Técnico) <br>
 👨‍💻 Dev Fullstack <br>
 📚 Entusiasta de React Native e Node.js <br>
 
